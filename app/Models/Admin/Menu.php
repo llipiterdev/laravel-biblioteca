@@ -8,5 +8,6 @@ class Menu extends Model
 {
     protected $table = "menu";
     protected $fillable = ['nombre','url','icono'];
-    protected $giarded = ['id_menu'];
+    protected $guarded = ['id_menu'];
+
 }
