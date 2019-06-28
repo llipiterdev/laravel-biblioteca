@@ -2,6 +2,7 @@
 /public/hot
 /public/storage
 /public/assets/lte
+/public/assets/js/jquery-validation
 /storage/*.key
 /vendor
 .env
